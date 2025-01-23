@@ -1,8 +1,7 @@
-# React + Vite
+Download code through command-line or zip file.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Run "npm install" within 'my-react-app' directory in command line for necessary dependencies.
 
-Currently, two official plugins are available:
+Run "npm start" to run weather-app locally.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
